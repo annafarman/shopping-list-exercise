@@ -1,2 +1,2 @@
 # shopping-list-exercise
-Shopping lisot exercise from The Odin Project
+Shopping list exercise from The Odin Project
